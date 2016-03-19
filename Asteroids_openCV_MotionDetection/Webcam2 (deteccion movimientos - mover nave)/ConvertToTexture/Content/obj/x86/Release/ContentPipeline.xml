@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>asteroid.png</Source>
+      <Name>asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\asteroid.xnb</Output>
+      <Time>2013-10-30T12:35:19.5641927-04:00</Time>
+    </Item>
+    <Item>
+      <Source>boton1.png</Source>
+      <Name>boton1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\boton1.xnb</Output>
+      <Time>2013-10-30T12:35:19.5661921-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\bullet.xnb</Output>
+      <Time>2013-10-30T12:35:19.5681934-04:00</Time>
+    </Item>
+    <Item>
+      <Source>corazon.png</Source>
+      <Name>corazon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\corazon.xnb</Output>
+      <Time>2013-10-30T12:35:19.5691938-04:00</Time>
+    </Item>
+    <Item>
+      <Source>fondoJuego.jpg</Source>
+      <Name>fondoJuego</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\fondoJuego.xnb</Output>
+      <Time>2013-10-30T12:35:19.5711956-04:00</Time>
+    </Item>
+    <Item>
+      <Source>nave.png</Source>
+      <Name>nave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\nave.xnb</Output>
+      <Time>2013-11-01T12:09:44.3762832-04:00</Time>
+    </Item>
+    <Item>
+      <Source>wallpaper.jpg</Source>
+      <Name>wallpaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\wallpaper.xnb</Output>
+      <Time>2013-10-30T12:35:19.6232298-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.jpg</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\gameover.xnb</Output>
+      <Time>2013-11-04T22:28:24.8199267-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\explosion.xnb</Output>
+      <Time>2013-11-01T12:53:40.9222805-04:00</Time>
+    </Item>
+    <Item>
+      <Source>powerpad.png</Source>
+      <Name>powerpad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\powerpad.xnb</Output>
+      <Time>2013-11-01T20:42:15.5643044-04:00</Time>
+    </Item>
+    <Item>
+      <Source>boton2.png</Source>
+      <Name>boton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\boton2.xnb</Output>
+      <Time>2013-11-04T23:15:23.427795-04:00</Time>
+    </Item>
+    <Item>
+      <Source>coin.wav</Source>
+      <Name>coin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\coin.xnb</Output>
+      <Time>2013-11-10T14:29:10.0408443-04:00</Time>
+    </Item>
+    <Item>
+      <Source>epic1.wav</Source>
+      <Name>epic1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\epic1.xnb</Output>
+      <Time>2013-11-10T14:29:10.5843718-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explode.wav</Source>
+      <Name>explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\explode.xnb</Output>
+      <Time>2013-11-10T14:29:10.6232788-04:00</Time>
+    </Item>
+    <Item>
+      <Source>overSound.wav</Source>
+      <Name>overSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\overSound.xnb</Output>
+      <Time>2013-11-10T14:29:10.6748204-04:00</Time>
+    </Item>
+    <Item>
+      <Source>playershoot.wav</Source>
+      <Name>playershoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\playershoot.xnb</Output>
+      <Time>2013-11-10T14:29:10.7219512-04:00</Time>
+    </Item>
+    <Item>
+      <Source>theme.mp3</Source>
+      <Name>theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\theme.xnb</Output>
+      <Extra>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\theme.wma</Extra>
+      <Time>2013-11-10T14:29:10.8776331-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-17T17:45:13.4575819-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

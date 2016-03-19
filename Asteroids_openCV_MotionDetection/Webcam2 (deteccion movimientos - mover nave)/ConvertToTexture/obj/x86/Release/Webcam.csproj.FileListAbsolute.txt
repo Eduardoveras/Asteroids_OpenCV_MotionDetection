@@ -1,0 +1,60 @@
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\bin\x86\Release\ConvertToTexture.exe
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\bin\x86\Release\ConvertToTexture.pdb
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\bin\x86\Release\zlib.net.dll
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\bin\x86\Release\Emgu.Util.xml
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\bin\x86\Release\Emgu.CV.ML.xml
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\bin\x86\Release\Emgu.CV.UI.xml
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\obj\x86\Release\ConvertToTexture.exe
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\obj\x86\Release\ConvertToTexture.pdb
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\bin\x86\Release\ConvertToTexture.exe
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\bin\x86\Release\ConvertToTexture.pdb
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\bin\x86\Release\zlib.net.dll
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\bin\x86\Release\Emgu.Util.xml
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\bin\x86\Release\Emgu.CV.ML.xml
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\bin\x86\Release\Emgu.CV.UI.xml
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\obj\x86\Release\ConvertToTexture.exe
+C:\Users\jbosch\Desktop\Webcam1\ConvertToTexture\obj\x86\Release\ConvertToTexture.pdb
+C:\Users\jbosch\Desktop\Webcam2\ConvertToTexture\bin\x86\Release\Content\nave.xnb
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\nave.xnb
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\ConvertToTexture.exe
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\ConvertToTexture.pdb
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\zlib.net.dll
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Emgu.Util.xml
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Emgu.CV.ML.xml
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Emgu.CV.UI.xml
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\ConvertToTexture.exe
+C:\Users\jbosch\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\ConvertToTexture.pdb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\Webcam.csprojResolveAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\ConvertToTexture.exe
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\nave.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\ConvertToTexture.exe
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\ConvertToTexture.pdb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\zlib.net.dll
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Emgu.CV.ML.xml
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Emgu.CV.UI.xml
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Emgu.Util.xml
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\obj\x86\Release\ConvertToTexture.pdb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\asteroid.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\boton1.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\bullet.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\corazon.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\fondoJuego.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\wallpaper.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\gameover.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\explosion.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\powerpad.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\boton2.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\coin.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\epic1.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\explode.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\overSound.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\playershoot.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\theme.xnb
+C:\Users\Eduardo\Desktop\Webcam2 (deteccion movimientos - mover nave)\ConvertToTexture\bin\x86\Release\Content\theme.wma
